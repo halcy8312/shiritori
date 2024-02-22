@@ -1,0 +1,27 @@
+/* client/style.css */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+
+#wordForm {
+    margin-bottom: 20px;
+}
+
+#wordInput {
+    margin-right: 10px;
+    padding: 8px;
+}
+
+#wordsList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#wordsList li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
